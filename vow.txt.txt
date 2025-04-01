@@ -12,4 +12,8 @@ fhf
 hf
 hf
 hi
+<<<<<<< HEAD
 how are u
+=======
+how are u
+>>>>>>> a1c6a29fbc4eefd350a509f8fd4d5c923668f3ad
